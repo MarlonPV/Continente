@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/*.principal{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0px;
+    padding: 60px;
+}*/
+
+/*.principal img{
+    width: 400px;
+    height: 50%;
+    float: left;
+}*/
+
+.foto{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.foto img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.foto p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.entrana{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0px;
+    padding: 60px;
+}
+
+.entrana img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+}
+
+.entrana p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.matambre{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0px;
+    padding: 60px;
+}
+
+.matambre img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+}
+
+.matambre p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.sorrentinos{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0px;
+    padding: 60px;
+}
+
+.sorrentinos img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+}
+
+.sorrentinos p{
+    font-size: 20px;
+    font-weight: 200;
+}

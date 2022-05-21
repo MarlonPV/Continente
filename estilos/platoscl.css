@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:cornsilk;
+    font-family: 'Roboto', sans-serif;
+}
+
+.foto{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.foto img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.foto p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+
+.charquican{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.charquican img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.charquican p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+.caldillo{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.caldillo img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.caldillo p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+
+.curanto{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.curanto img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.curanto p{
+    font-size: 20px;
+    font-weight: 200;
+}

@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:seashell;
+    font-family: 'Roboto', sans-serif;
+}
+
+.foto{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.foto img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.foto p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+.feijoada{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.feijoada img{
+    width: 400px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.feijoada p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+.moqueca{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.moqueca img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.moqueca p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+
+.vatapa{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.vatapa img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.vatapa p{
+    font-size: 20px;
+    font-weight: 200;
+}

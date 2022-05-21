@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:darkgray;
+    font-family: 'Roboto', sans-serif;
+}
+
+.foto{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.foto img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.foto p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+.olinda{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.olinda img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.olinda p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+.rio{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.rio img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.rio p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.parque{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.parque img{
+    width: 300px;
+    height: 40%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.parque p{
+    font-size: 20px;
+    font-weight: 200;
+}

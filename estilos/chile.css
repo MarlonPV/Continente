@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu{
+    background-color: rgb(15, 15, 153);
+    text-align: center;
+    margin: 0px;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu a{
+    padding: 40px;
+    color: rgb(250, 0, 0);
+    text-decoration: none;
+    display: block;
+}
+
+.menu a:hover{
+    background-color:rgb(52, 29, 68);
+    font-size: large;
+}
+
+
+.foto{
+    width: 100%;
+    max-width: 1000px;
+    margin:0px;
+    padding: 60px;
+}
+
+.title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+
+.foto img{
+    width: 400px;
+    height: 50%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.foto p{
+    font-size: 20px;
+    font-weight: 200;
+}
